@@ -1,5 +1,7 @@
 # Hermes Night — install Hermes Agent
 
+![Meet Hermes Agent: DEVSA Discord exclusive, Wednesday October 21, 6 to 7:30 PM CT](cover.png)
+
 **Wednesday, October 21, 2026 · 6:00–7:30 PM CT · Hermes Night stage, DEVSA Discord**
 
 DEVSA's first Discord-exclusive live session. [Hermes Agent](https://github.com/NousResearch/hermes-agent) is an open-source AI agent from [Nous Research](https://nousresearch.com), MIT-licensed, that runs on your own machine and grows with you: it keeps memory, learns skills, and works through a terminal, a desktop app, or your messaging apps.
@@ -34,3 +36,7 @@ As with any install script piped to a shell: read it first if you want to know w
 Set up Hermes and made it do something worth showing? Add a line here with a pull request: what you had it do, and a link if there is one.
 
 <!-- Add below this line: - What you built — link. By @your-github -->
+
+---
+
+Cover by DEVSA. The illustration is from Nous Research's Nous Portal, used to promote their open-source project; it belongs to Nous Research.

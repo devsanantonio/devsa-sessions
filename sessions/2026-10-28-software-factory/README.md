@@ -1,5 +1,7 @@
 # Software Factory Night
 
+![Meet the Software Factory: DEVSA Discord exclusive, Wednesday October 28, 6 to 7:30 PM CT](cover.png)
+
 **Wednesday, October 28, 2026 · 6:00–7:30 PM CT · Software Factory Night stage, DEVSA Discord**
 
 An introduction to [On PAR Dev's Software Factory](https://github.com/on-par/software-factory), installed and used together. It's a local command-line tool, MIT-licensed, that takes a GitHub issue through four phases with AI coding agents (plan, build, check, ship) and stops at a pull request that's ready for you to review. Thanks to On PAR Dev for building it in the open.
@@ -44,3 +46,7 @@ Merging stays with you: review the PR, then merge it yourself or run `factory la
 Shipped an issue with the factory? Add a line with a pull request: the issue, the PR it produced, and what you'd tell the next person.
 
 <!-- Add below this line: - Repo / issue → PR link: what happened. By @your-github -->
+
+---
+
+Cover by DEVSA. The On PAR Dev logo belongs to On PAR Dev and is used to credit their project.
